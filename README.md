@@ -1,5 +1,5 @@
 # Codeigniter-POS
-Aplikasi POS yang masih dalam tahap perkembangan  menggunakan CodeIgniter 3 dan Bootstrap 3
+Aplikasi POS(Point Of Sales) yang masih dalam tahap perkembangan  menggunakan CodeIgniter 3 dan Bootstrap 3
 
 ### **### Beberapa Hasil Screen Shoot yang dapat saya bagikan** 
 ![Dashboard](https://user-images.githubusercontent.com/74533242/99824491-5c5bd180-2b88-11eb-861f-c445435301aa.png)
